@@ -1,5 +1,8 @@
 tämä on demo
-<Lisätty tekstiä 10.9>
-moikka
+<<<<<<< HEAD
+
 heipparallaa
 
+=======
+ Lisätty tekstiä
+>>>>>>> 27108e0... uutta tekstiä
